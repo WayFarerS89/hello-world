@@ -15,9 +15,7 @@
 
 
 <body>
-<h1> Hello World, this is just a tryout. </h1>
+<?php echo '<h1>Hello World, this is just a tryout.</h1>'; ?>
 
 </body>
 </html>
-
-
