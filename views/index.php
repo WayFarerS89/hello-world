@@ -6,16 +6,8 @@
 
         
     </head>
+    <body>
+    <?php echo '<h1>Hello World, this is just a tryout.</h1>'; ?>
 
-<!--
-<button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal">
-    <span class="glyphicon glyphicon-cloud-upload"></span> Upload Policies
-</button>
--->
-
-
-<body>
-<?php echo '<h1>Hello World, this is just a tryout.</h1>'; ?>
-
-</body>
+    </body>
 </html>
